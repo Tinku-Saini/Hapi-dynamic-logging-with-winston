@@ -1,0 +1,22 @@
+{
+  "name": "hapi-dynamic-logging-with-winston",
+  "version": "1.0.0",
+  "description": "Dynamic Logging with Winston",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tinku-Saini/Hapi-dynamic-logging-with-winston.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tinku-Saini/Hapi-dynamic-logging-with-winston/issues"
+  },
+  "homepage": "https://github.com/Tinku-Saini/Hapi-dynamic-logging-with-winston#readme",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "joi": "^14.3.1",
+    "winston": "^3.2.1"
+  }
+}
